@@ -1,6 +1,4 @@
 
- <h1 align="center">Greenely Android Assignment</h1>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
